@@ -12,6 +12,10 @@
 
 <img src="https://github.com/Rayhan-Z75/CrackerMbf/blob/main/script.png" />
 
+### Login
+```
+• Login Menggunakan Cookie 
+• Untuk Msndapatkan Cookie Liat YT
 ### Menu
 ```
 • Crack Dari Followers
@@ -20,7 +24,6 @@
 • Crack Dari Pencarian Nama
 • Crack Dari Daftar Teman Target
 • Crack Dari Permintaan Pertemanan
-
 ```
 ### Cara Install
 ```
