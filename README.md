@@ -15,7 +15,7 @@
 ### Login
 ```
 • Login Menggunakan Cookie 
-• Untuk Msndapatkan Cookie Liat YT
+• Untuk Mendapatkan Cookie Liat YT
 ```
 ### Menu
 ```
