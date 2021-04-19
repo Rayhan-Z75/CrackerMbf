@@ -1,11 +1,6 @@
 
 <h1 align="center">
-    ⚔️Script Crack By Rayhan Ganz⚔️
-</h1>
-<h1 align="center">
-  ®️Logo Github Rayhan Ganz®️
-
-<img src="https://github.com/Rayhan-Z75/CrackerMbf/blob/main/Logo_Rayhan-Z75.png" />
+    Script By Rayhan Zuckerberg
 </h1>
 <h1 align="center">
   ★Tampilan Script Ini★
