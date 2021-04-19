@@ -36,6 +36,8 @@
 ```
 • cd CrackerMbf
 • python Xmbf.py
+• Login Menggunakan Acces Token
+• Untuk Info Selanjutnya Langsung Hubungi WA
 ```
 ### SOSIAL MEDIA SAYA
 * [<img alt="Rayhan Github" align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /> <b>Github</b>](https://github.com/Rayhan-Z75/)<br />
